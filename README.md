@@ -156,3 +156,10 @@ Open to connecting with developers, discussing projects, and exploring opportuni
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:172554,100:6D28D9" width="100%" />
 
 </div>
+
+## 🐍 Contribution Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thulasinatha02/Thulasinatha02/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</div>
+
